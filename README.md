@@ -8,3 +8,4 @@ create table movies
  runtimeMinutes varchar(45);
  genres varchar(45)
 )
+select * from movies
