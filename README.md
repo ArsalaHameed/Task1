@@ -1,6 +1,6 @@
 create database SQLcode
 use SQLcode
-create table movies
+create table Movies
 (
  tconst varchar(45);
  titleType varchar(45);
@@ -8,4 +8,4 @@ create table movies
  runtimeMinutes varchar(45);
  genres varchar(45)
 )
-select * from movies
+select * from Movies
